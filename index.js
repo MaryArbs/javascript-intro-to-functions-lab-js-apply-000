@@ -7,16 +7,5 @@ function whisper (string) {
 function logShout (string) {
   console.log () string. toUpperCase
 }
-function sayHiToGrandma (string){
-  if (string. toLowerCase) {
-    return "I can't hear you!"}
-}
-function sayHiToGrandma (string) {
-  if (string. toUpperCase) {
-    return "YES INDEED!"}
-}
-function sayHiToGrandma (string){
-if (string. IloveyouGrandma) {
-  return "I love you, too."
-}
-}
+
+
